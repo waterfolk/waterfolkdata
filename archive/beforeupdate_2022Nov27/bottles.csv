@@ -1,0 +1,181 @@
+"bottlecode","filtered","system","station","lat","lon","groupname","datecollect","timecollect","watertype","depth","ambientTF","experimenttype","methodcollect","sampleuser","recorduser","note","flag"
+"0416-01","F","Lake Waco","1",31.54371,-97.221,"LW0",2021-08-18,1899-12-31 11:10:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0318-14","F","Lake Waco","1",31.54371,-97.221,"LW0",2021-08-18,1899-12-31 11:10:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0391-01","F","Lake Waco","1",31.54371,-97.221,"LW0",2021-08-18,1899-12-31 11:10:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"TBD, unfiltered lake Waco site #1","UF","Lake Waco","1",31.54371,-97.221,"LW0",2021-08-18,1899-12-31 11:10:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0216-10","F","Lake Waco","2",31.55517,-97.2161,"LW0",2021-08-18,1899-12-31 13:35:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0420-01","F","Lake Waco","2",31.55517,-97.2161,"LW0",2021-08-18,1899-12-31 13:35:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0388-01","F","Lake Waco","2",31.55517,-97.2161,"LW0",2021-08-18,1899-12-31 13:35:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0360-09","UF","Lake Waco","2",31.55517,-97.2161,"LW0",2021-08-18,1899-12-31 13:35:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0217-10","F","Lake Waco","3",31.59958,-97.2926,"LW0",2021-08-18,1899-12-31 14:25:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0389-01","F","Lake Waco","3",31.59958,-97.2926,"LW0",2021-08-18,1899-12-31 14:25:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0421-01","F","Lake Waco","3",31.59958,-97.2926,"LW0",2021-08-18,1899-12-31 14:25:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0357-09","UF","Lake Waco","3",31.59958,-97.2926,"LW0",2021-08-18,1899-12-31 14:25:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0361-09","UF","Lake Waco","4",31.51055,-97.24861,"LW0",2021-08-18,1899-12-31 15:45:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0384-01","F","Lake Waco","4",31.51055,-97.24861,"LW0",2021-08-18,1899-12-31 15:45:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0214-10","F","Lake Waco","4",31.51055,-97.24861,"LW0",2021-08-18,1899-12-31 15:45:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0418-01","F","Lake Waco","4",31.51055,-97.24861,"LW0",2021-08-18,1899-12-31 15:45:00,"surfacewater",0.25,TRUE,"none","grab,syringefilter","SP,MM","SP",NA,NA
+"0607-09","UF","Lake Waco","1",31.60062,-97.294,"LW0",2021-09-03,1899-12-31 12:42:00,"surfacewater",0.5,TRUE,"none","grab","SP,LM","SP",NA,NA
+"0608-09","UF","Lake Waco","2",31.60341,-97.2736,"LW0",2021-09-03,1899-12-31 12:56:00,"surfacewater",0.5,TRUE,"none","grab","SP,LM","SP",NA,NA
+"0609-09","UF","Lake Waco","3",31.59363,-97.2563,"LW0",2021-09-03,1899-12-31 13:17:00,"surfacewater",0.5,TRUE,"none","grab","SP,LM","SP",NA,NA
+"0610-09","UF","Lake Waco","4",31.59037,-97.2395,"LW0",2021-09-03,1899-12-31 13:26:00,"surfacewater",0.5,TRUE,"none","grab","SP,LM","SP",NA,NA
+"0611-09","UF","Lake Waco","5",31.57925,-97.2217,"LW0",2021-09-03,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","SP,LM","SP",NA,NA
+"0415-01","F","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler,labfilter","LM","LM,SP","DNP",NA
+"0511-03","F","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler,labfilter","LM","LM,SP","TDP",NA
+"0543-04","UF","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler","LM","LM,SP","TP",NA
+"0447-01","F","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler,labfilter","LM","LM,SP","TDN",NA
+"0479-02","UF","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler","LM","LM,SP","TN",NA
+"0383-01","F","Lacy Miller Ponds","Pond A",31.69439,-97.16837,"LMP0",2021-08-20,NA,"surfacewater",0.5,TRUE,"none","grab,throwsampler,labfilter","LM","LM,SP","IC",NA
+"0004-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0005-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0006-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0007-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0008-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0009-01","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0046-02","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0047-02","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0048-02","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0061-03","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0062-03","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0063-03","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0076-04","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0077-04","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0078-04","UF","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0013-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0014-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0015-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0016-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0017-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0018-01","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0049-02","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0050-02","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0051-02","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0064-03","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0065-03","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0066-03","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0079-04","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0080-04","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0081-04","UF","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:23:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0022-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0023-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0024-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0025-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0026-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0027-01","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","DNP",NA
+"0052-02","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0053-02","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0054-02","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0067-03","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0068-03","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0069-03","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0082-15","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0083-15","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0084-15","UF","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:48:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0031-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0032-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0033-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0034-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0035-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0036-01","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0055-02","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0056-02","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0057-02","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0070-03","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0071-03","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0072-03","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0085-15","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0086-15","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0087-15","UF","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:04:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0040-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0041-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0042-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0043-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0044-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0045-01","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0058-02","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0059-02","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0060-02","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0073-03","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0074-03","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0075-03","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0088-15","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0089-15","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0090-15","UF","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0131-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","IC",NA
+"0132-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","IC",NA
+"0133-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0134-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0135-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0128-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","IC",NA
+"0129-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","IC",NA
+"0130-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","IC",NA
+"0139-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0140-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0141-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","IC",NA
+"0160-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0161-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0162-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0166-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0167-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0168-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","DNP",NA
+"0192-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0193-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0194-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0195-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0196-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDN",NA
+"0197-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0198-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0199-12","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0203-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0204-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0205-12","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDN",NA
+"0224-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0225-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0226-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0227-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0228-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0229-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TN",NA
+"0230-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0231-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0232-13","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0236-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0237-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0238-13","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TN",NA
+"0256-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0257-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0258-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0259-14","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0260-14","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TDP",NA
+"0261-14","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0262-14","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0263-14","F","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0267-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0268-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0269-14","F","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TDP",NA
+"0288-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0289-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0290-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-04,1899-12-31 12:15:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0291-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0292-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0293-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-04,NA,"surfacewater",0.5,TRUE,"none","grab","MM,MO","MM,SP","TP",NA
+"0294-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0295-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0296-15","UF","Fort Parker Lake","1 - Navasota River below dam",31.58728,-96.5261,"FP0",2021-08-12,1899-12-31 10:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0300-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0301-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0302-15","UF","Fort Parker Lake","2 - Navasota River upstream at Confederate Reunion Grounds Park",31.63349,-96.56243,"FP0",2021-08-12,1899-12-31 13:38:00,"surfacewater",0.5,TRUE,"none","grab","MM,LM","MM,SP","TP",NA
+"0096-10","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:02:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0097-10","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:02:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0098-10","F","Lake Whitney","1 - Brazos River upstream",32.20417,-97.60575,"WH0",2021-07-28,1899-12-31 11:02:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0099-10","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:25:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0100-10","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:25:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0101-10","F","Lake Whitney","2 - Nolan Creek",32.14698,-97.39695,"WH0",2021-07-28,1899-12-31 13:25:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0102-10","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:50:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0103-10","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:50:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0104-10","F","Lake Whitney","3 - Brazos River below dam",31.86505,-97.36717,"WH0",2021-07-28,1899-12-31 15:50:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0105-10","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0106-10","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0107-10","F","Lake Whitney","4 - Cedron Creek",31.95104,-97.45661,"WH0",2021-07-29,1899-12-31 12:05:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0108-10","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0109-10","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
+"0110-10","F","Lake Whitney","5 - Steele Creek",32.00283,-97.48388,"WH0",2021-07-29,1899-12-31 13:33:00,"surfacewater",0.5,TRUE,"none","grab","MM,MO","SP",NA,NA
