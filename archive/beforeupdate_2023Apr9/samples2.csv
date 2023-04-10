@@ -839,7 +839,12 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 838,1255-98,F,Lake Waco,Site 4,chl,,,flame,10/14/2022,13:31,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,11/27/2022
 839,1256-98,F,Lake Waco,Site 4,chl,,,flame,10/14/2022,13:31,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,11/27/2022
 840,1257-98,F,Lake Waco,Site 4,chl,,,flame,10/14/2022,13:31,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,11/27/2022
+841,0587-16,UF,Lake Waco,N. Bosque,,,,minidot_buoy,11/16/2022,,surfacewater,0.1,,TRUE,none,grab,MM,MB,,,11/27/2022
+842,0906-16,UF,Lake Waco,NB TZ,,,,minidot_buoy,11/16/2022,,surfacewater,0.1,,TRUE,none,grab,MM,MB,,,11/27/2022
+843,0907-16,UF,Lake Waco,N. Arm,,,,minidot_buoy,11/16/2022,11:59,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/27/2022
 844,0901-16,UF,Lake Waco,Dam,,31.580661,-97.203177,minidot_buoy,11/16/2022,12:30,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/27/2022
+845,0909-16,UF,Lake Waco,Marina,,,,minidot_buoy,11/16/2022,12:49,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/27/2022
+846,0905-16,UF,Lake Waco,S. Arm,,,,minidot_buoy,11/16/2022,13:05,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/27/2022
 847,1410-98,F,Lake Waco,1,Chl,31.59051667,-97.2623,flame,7/23/2022,10:15,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 848,1411-98,F,Lake Waco,1,Chl,31.59051667,-97.2623,flame,7/23/2022,10:15,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 849,1412-98,F,Lake Waco,1,Chl,31.59051667,-97.2623,flame,7/23/2022,10:15,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
