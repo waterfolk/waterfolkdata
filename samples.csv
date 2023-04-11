@@ -1751,7 +1751,7 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1758,1317-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
 1759,1318-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
 1760,1319-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1761,0927-16,UF,Sabine-Neches,T1,Turner and spec scans,30.00011,-96.9506,SNcruise2022,12/3/2022,10:40,surface,4.5,,TRUE,none,1 L grab sample,SP,SP,"water depth=4.5m, station S1",,4/10/2023
+1761,0927-16,UF,Sabine-Neches,T1,Turner and spec scans,30.00011,-93.9506,SNcruise2022,12/3/2022,10:40,surface,4.5,,TRUE,none,1 L grab sample,SP,SP,"water depth=4.5m, station S1",,4/10/2023
 1762,0922-16,UF,Sabine-Neches,T2,Turner and spec scans,29.96735,-93.85571667,SNcruise2022,12/3/2022,11:05,surface,12,,TRUE,none,1 L grab sample,SP,SP,water depth=12m,,4/10/2023
 1763,0921-16,UF,Sabine-Neches,T3,Turner and spec scans,29.96343333,-93.85675,SNcruise2022,12/3/2022,11:20,surface,12.6,,TRUE,none,1 L grab sample,SP,SP,"water depth=12.6m, station S2",,4/10/2023
 1764,0598-16,UF,Sabine-Neches,T4,Turner and spec scans,29.92338333,-93.88093333,SNcruise2022,12/3/2022,11:37,surface,13.1,,TRUE,none,1 L grab sample,SP,SP,water depth=13.1m,,4/10/2023
