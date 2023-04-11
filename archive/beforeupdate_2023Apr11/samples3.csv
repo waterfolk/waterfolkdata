@@ -20,12 +20,12 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 19,0609-09,UF,Lake Waco,3,,31.59363,-97.2563,LW0,9/3/2021,13:17,surfacewater,0.5,0.45,TRUE,none,grab,"SP,LM",SP,,,2021
 20,0610-09,UF,Lake Waco,4,,31.59037,-97.2395,LW0,9/3/2021,13:26,surfacewater,0.5,0.45,TRUE,none,grab,"SP,LM",SP,,,2021
 21,0611-09,UF,Lake Waco,5,,31.57925,-97.2217,LW0,9/3/2021,13:38,surfacewater,0.5,0.45,TRUE,none,grab,"SP,LM",SP,,,2021
-22,0415-01,F,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",DNP,,2021
-23,0511-03,F,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",TDP,,2021
-24,0543-04,UF,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler",LM,"LM,SP",TP,,2021
-25,0447-01,F,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",TDN,,2021
-26,0479-02,UF,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler",LM,"LM,SP",TN,,2021
-27,0383-01,F ,Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",IC,,2021
+22,0415-01,F,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",DNP,,2021
+23,0511-03,F,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",TDP,,2021
+24,0543-04,UF,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler",LM,"LM,SP",TP,,2021
+25,0447-01,F,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",TDN,,2021
+26,0479-02,UF,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler",LM,"LM,SP",TN,,2021
+27,0383-01,F ,Lacy Miller Ponds,Pond A,,31.69439,-97.16837,LMP0,8/20/2021,,surfacewater,0.5,0.45,TRUE,none,"grab,throwsampler,labfilter",LM,"LM,SP",IC,,2021
 28,0004-01,F,Lake Whitney,1 - Brazos River upstream,,32.20417,-97.60575,WH0,7/28/2021,11:05,surfacewater,0.5,0.45,TRUE,none,grab,"MM,MO","MM,SP",TDN,,2021
 29,0005-01,F,Lake Whitney,1 - Brazos River upstream,,32.20417,-97.60575,WH0,7/28/2021,11:05,surfacewater,0.5,0.45,TRUE,none,grab,"MM,MO","MM,SP",TDN,,2021
 30,0006-01,F,Lake Whitney,1 - Brazos River upstream,,32.20417,-97.60575,WH0,7/28/2021,11:05,surfacewater,0.5,0.45,TRUE,none,grab,"MM,MO","MM,SP",TDN,,2021
