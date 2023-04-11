@@ -943,7 +943,7 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 950,0490-02,n/a,Lake Waco,Blank,tdp,n/a,n/a ,flame,7/23/2022,n/a,n/a,n/a,,TRUE,none,blank,,MAB,,,11/30/2022
 951,0504-02,n/a,Lake Waco,Blank,dnp/tdn,n/a,n/a ,flame,7/23/2022,n/a,n/a,n/a,,TRUE,none,blank,,MAB,,,11/30/2022
 952,0587-16,UF,Lake Waco,N. Bosque,,31.60024,-97.29351,minidot_buoy,11/16/2022,9:10,surfacewater,0.1,,TRUE,none,grab,MM,MB,,,11/30/2022
-953,0906-16,UF,Lake Waco,NB TZ,,31.6056,-97.27216,minidot_buoy,11/16/2022,8:36,surfacewater,0.1,,TRUE,none,grab,MM,MB,,,11/30/2022
+953,0906-16,UF,Lake Waco,NB TZ,,31.6056,97.27216,minidot_buoy,11/16/2022,8:36,surfacewater,0.1,,TRUE,none,grab,MM,MB,,,11/30/2022
 954,0907-16,UF,Lake Waco,N. Arm,,31.59498,-97.25371,minidot_buoy,11/16/2022,11:59,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/30/2022
 955,0901-16,UF,Lake Waco,Dam,,31.580661,-97.203177,minidot_buoy,11/16/2022,12:30,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/30/2022
 956,0909-16,UF,Lake Waco,Marina,,31.54366,-97.22294,minidot_buoy,11/16/2022,12:49,surfacewater,0.1,,TRUE,none,grab,MB,MB,,,11/30/2022
