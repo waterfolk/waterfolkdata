@@ -1546,48 +1546,48 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1553,1967-97,F,Lake Waco,6,CN,31.594183,-97.254683,flame,6/23/2022,14:37,surfacewater,0.25,0.7,TRUE,none,grab,MB,MB,,,
 1554,1968-97,F,Lake Waco,6,CN,31.594183,-97.254683,flame,6/23/2022,14:37,surfacewater,0.25,0.7,TRUE,none,grab,MB,MB,,,
 1555,1969-97,F,Lake Waco,6,CN,31.594183,-97.254683,flame,6/23/2022,14:37,surfacewater,0.25,0.7,TRUE,none,grab,MB,MB,,,
-1556,1970-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1557,1971-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1558,1972-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1559,1973-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1560,1974-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1561,1975-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1562,1976-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1563,1977-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1564,1978-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1565,1979-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1566,1980-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1567,1981-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1568,1982-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1569,1983-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1570,1984-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1571,1985-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1572,1986-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1573,1987-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1574,1988-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1575,1989-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1576,1990-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
-1577,1991-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1578,1992-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1579,1993-98,F,Sabine-Neches,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1580,1994-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1581,1995-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1582,1996-98,F,Sabine-Neches,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1583,1997-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1584,1998-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1585,1999-98,F,Sabine-Neches,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1586,2000-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1587,2001-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1588,2002-98,F,Sabine-Neches,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1589,2003-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1590,2004-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1591,2005-98,F,Sabine-Neches,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1592,2006-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1593,2007-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1594,2008-98,F,Sabine-Neches,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1595,2009-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1596,2010-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
-1597,2011-98,F,Sabine-Neches,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1556,1970-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1557,1971-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1558,1972-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1559,1973-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1560,1974-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1561,1975-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1562,1976-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1563,1977-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1564,1978-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1565,1979-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1566,1980-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1567,1981-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1568,1982-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1569,1983-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1570,1984-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1571,1985-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1572,1986-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1573,1987-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1574,1988-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1575,1989-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1576,1990-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Was not frozen until next morning ,,
+1577,1991-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1578,1992-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1579,1993-98,F,Sabine River,S1,chl,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1580,1994-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1581,1995-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1582,1996-98,F,Sabine River,S2,chl,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1583,1997-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1584,1998-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1585,1999-98,F,Sabine River,S3,chl,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1586,2000-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1587,2001-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1588,2002-98,F,Sabine River,S4,chl,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1589,2003-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1590,2004-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1591,2005-98,F,Sabine River,S5,chl,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1592,2006-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1593,2007-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1594,2008-98,F,Sabine River,S6,chl,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1595,2009-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1596,2010-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
+1597,2011-98,F,Sabine River,S7,chl,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MB,MB,Filtered 12.4.2023 due to other samples not frozen,,
 1598,2012-98,F,Brazos River,B1,chl,31.4921,-97.028,BrazosCruise32023,3/4/2023,12:38,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,
 1599,2013-98,UF,Brazos River,B2,chl,31.5502,-97.0898,BrazosCruise32023,3/4/2023,14:22,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,
 1600,2014-98,F,Brazos River,B2-3,chl,31.5411,-97.078,BrazosCruise32023,3/4/2023,14:40,surface,0.25,0.7,TRUE,none,grab,MB,MB,,,
@@ -1646,111 +1646,111 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1653,1631-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
 1654,0371-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
 1655,0372-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
-1656,0588-16,UF,Sabine-Neches,S1,UF,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1657,1181-17,UF,Sabine-Neches,S1,F,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1658,1222-13,UF,Sabine-Neches,S1,DOC/DIC,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1659,1533-02,UF,Sabine-Neches,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1660,1534-02,UF,Sabine-Neches,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1661,1053-02,UF,Sabine-Neches,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1662,1557-01,F,Sabine-Neches,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1663,1558-01,F,Sabine-Neches,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1664,1559-01,F,Sabine-Neches,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1665,1621-01,F,Sabine-Neches,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1666,1622-01,F,Sabine-Neches,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1667,1623-01,F,Sabine-Neches,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1668,1323-01,F,Sabine-Neches,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1669,1324-01,F,Sabine-Neches,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1670,1325-01,F,Sabine-Neches,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
-1671,1195-16,UF,Sabine-Neches,S2,UF,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1672,1158-17,UF,Sabine-Neches,S2,F,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1673,0895-13,UF,Sabine-Neches,S2,DOC/DIC,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1674,0717-04,UF,Sabine-Neches,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1675,0725-04,UF,Sabine-Neches,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1676,0736-04,UF,Sabine-Neches,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1677,1390-01,F,Sabine-Neches,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1678,1391-01,F,Sabine-Neches,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1679,1556-01,F,Sabine-Neches,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1680,1294-01,F,Sabine-Neches,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1681,1295-01,F,Sabine-Neches,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1682,1620-01,F,Sabine-Neches,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1683,1320-01,F,Sabine-Neches,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1684,1321-01,F,Sabine-Neches,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1685,1322-01,F,Sabine-Neches,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1686,0589-16,UF,Sabine-Neches,S3,UF,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1687,0937-17,UF,Sabine-Neches,S3,F,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1688,1223-13,UF,Sabine-Neches,S3,DOC/DIC,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1689,1535-02,UF,Sabine-Neches,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1690,1536-02,UF,Sabine-Neches,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1691,1537-02,UF,Sabine-Neches,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1692,1384-01,F,Sabine-Neches,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1693,1385-01,F,Sabine-Neches,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1694,1386-01,F,Sabine-Neches,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1695,1288-01,F,Sabine-Neches,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1696,1289-01,F,Sabine-Neches,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1697,1290-01,F,Sabine-Neches,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1698,1314-01,F,Sabine-Neches,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1699,1315-01,F,Sabine-Neches,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1700,1316-01,F,Sabine-Neches,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1701,0590-16,UF,Sabine-Neches,S4,UF,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1702,0938-17,UF,Sabine-Neches,S4,F,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1703,1224-13,UF,Sabine-Neches,S4,DOC/DIC,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1704,1538-02,UF,Sabine-Neches,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1705,1539-02,UF,Sabine-Neches,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1706,1540-02,UF,Sabine-Neches,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1707,1381-01,F,Sabine-Neches,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1708,1382-01,F,Sabine-Neches,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1709,1383-01,F,Sabine-Neches,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1710,1285-01,F,Sabine-Neches,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1711,1286-01,F,Sabine-Neches,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1712,1287-01,F,Sabine-Neches,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1713,1311-01,F,Sabine-Neches,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1714,1312-01,F,Sabine-Neches,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1715,1313-01,F,Sabine-Neches,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1716,0591-16,UF,Sabine-Neches,S5,UF,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1717,0940-17,UF,Sabine-Neches,S5,F,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1718,1226-13,UF,Sabine-Neches,S5,DOC/DIC,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1719,1544-02,UF,Sabine-Neches,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1720,1545-02,UF,Sabine-Neches,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1721,1546-02,UF,Sabine-Neches,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1722,1563-01,F,Sabine-Neches,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1723,1564-01,F,Sabine-Neches,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1724,1565-01,F,Sabine-Neches,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1725,1627-01,F,Sabine-Neches,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1726,1628-01,F,Sabine-Neches,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1727,1629-01,F,Sabine-Neches,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1728,1653-01,F,Sabine-Neches,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1729,1654-01,F,Sabine-Neches,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1730,1655-01,F,Sabine-Neches,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1731,0592-16,UF,Sabine-Neches,S6,UF,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1732,0939-17,UF,Sabine-Neches,S6,F,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1733,1225-13,UF,Sabine-Neches,S6,DOC/DIC,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1734,1541-02,UF,Sabine-Neches,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1735,1542-02,UF,Sabine-Neches,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1736,1543-02,UF,Sabine-Neches,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1737,1560-01,F,Sabine-Neches,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1738,1561-01,F,Sabine-Neches,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1739,1562-01,F,Sabine-Neches,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1740,1624-01,F,Sabine-Neches,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1741,1625-01,F,Sabine-Neches,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1742,1626-01,F,Sabine-Neches,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1743,1326-01,F,Sabine-Neches,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1744,1327-01,F,Sabine-Neches,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1745,1652-01,F,Sabine-Neches,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1746,1208-16,UF,Sabine-Neches,S7,UF,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1747,1173-17,UF,Sabine-Neches,S7,F,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1748,1219-13,UF,Sabine-Neches,S7,DOC/DIC,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1749,1524-02,UF,Sabine-Neches,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1750,1525-02,UF,Sabine-Neches,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1751,1526-02,UF,Sabine-Neches,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1752,1387-01,F,Sabine-Neches,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1753,1388-01,F,Sabine-Neches,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1754,1389-01,F,Sabine-Neches,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1755,1291-01,F,Sabine-Neches,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1756,1292-01,F,Sabine-Neches,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1757,1293-01,F,Sabine-Neches,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1758,1317-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1759,1318-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
-1760,1319-01,F,Sabine-Neches,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1656,0588-16,UF,Sabine River,S1,UF,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1657,1181-17,UF,Sabine River,S1,F,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1658,1222-13,UF,Sabine River,S1,DOC/DIC,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1659,1533-02,UF,Sabine River,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1660,1534-02,UF,Sabine River,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1661,1053-02,UF,Sabine River,S1,TNP,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1662,1557-01,F,Sabine River,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1663,1558-01,F,Sabine River,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1664,1559-01,F,Sabine River,S1,dnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1665,1621-01,F,Sabine River,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1666,1622-01,F,Sabine River,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1667,1623-01,F,Sabine River,S1,tdnp,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1668,1323-01,F,Sabine River,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1669,1324-01,F,Sabine River,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1670,1325-01,F,Sabine River,S1,ic,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,,,4/10/2023
+1671,1195-16,UF,Sabine River,S2,UF,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1672,1158-17,UF,Sabine River,S2,F,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1673,0895-13,UF,Sabine River,S2,DOC/DIC,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1674,0717-04,UF,Sabine River,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1675,0725-04,UF,Sabine River,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1676,0736-04,UF,Sabine River,S2,TNP,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1677,1390-01,F,Sabine River,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1678,1391-01,F,Sabine River,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1679,1556-01,F,Sabine River,S2,dnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1680,1294-01,F,Sabine River,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1681,1295-01,F,Sabine River,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1682,1620-01,F,Sabine River,S2,tdnp,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1683,1320-01,F,Sabine River,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1684,1321-01,F,Sabine River,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1685,1322-01,F,Sabine River,S2,ic,29.96737,-93.8557,flame,12/3/2022,11:17,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1686,0589-16,UF,Sabine River,S3,UF,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1687,0937-17,UF,Sabine River,S3,F,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1688,1223-13,UF,Sabine River,S3,DOC/DIC,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1689,1535-02,UF,Sabine River,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1690,1536-02,UF,Sabine River,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1691,1537-02,UF,Sabine River,S3,TNP,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1692,1384-01,F,Sabine River,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1693,1385-01,F,Sabine River,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1694,1386-01,F,Sabine River,S3,dnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1695,1288-01,F,Sabine River,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1696,1289-01,F,Sabine River,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1697,1290-01,F,Sabine River,S3,tdnp,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1698,1314-01,F,Sabine River,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1699,1315-01,F,Sabine River,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1700,1316-01,F,Sabine River,S3,ic,29.75668,-93.8933,flame,12/3/2022,12:25,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1701,0590-16,UF,Sabine River,S4,UF,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1702,0938-17,UF,Sabine River,S4,F,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1703,1224-13,UF,Sabine River,S4,DOC/DIC,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1704,1538-02,UF,Sabine River,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1705,1539-02,UF,Sabine River,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1706,1540-02,UF,Sabine River,S4,TNP,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1707,1381-01,F,Sabine River,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1708,1382-01,F,Sabine River,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1709,1383-01,F,Sabine River,S4,dnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1710,1285-01,F,Sabine River,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1711,1286-01,F,Sabine River,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1712,1287-01,F,Sabine River,S4,tdnp,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1713,1311-01,F,Sabine River,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1714,1312-01,F,Sabine River,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1715,1313-01,F,Sabine River,S4,ic,29.6814,-93.8353,flame,12/3/2022,12:56,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1716,0591-16,UF,Sabine River,S5,UF,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1717,0940-17,UF,Sabine River,S5,F,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1718,1226-13,UF,Sabine River,S5,DOC/DIC,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1719,1544-02,UF,Sabine River,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1720,1545-02,UF,Sabine River,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1721,1546-02,UF,Sabine River,S5,TNP,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1722,1563-01,F,Sabine River,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1723,1564-01,F,Sabine River,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1724,1565-01,F,Sabine River,S5,dnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1725,1627-01,F,Sabine River,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1726,1628-01,F,Sabine River,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1727,1629-01,F,Sabine River,S5,tdnp,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1728,1653-01,F,Sabine River,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1729,1654-01,F,Sabine River,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1730,1655-01,F,Sabine River,S5,ic,29.82142,-93.9047,flame,12/3/2022,14:18,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1731,0592-16,UF,Sabine River,S6,UF,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1732,0939-17,UF,Sabine River,S6,F,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1733,1225-13,UF,Sabine River,S6,DOC/DIC,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1734,1541-02,UF,Sabine River,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1735,1542-02,UF,Sabine River,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1736,1543-02,UF,Sabine River,S6,TNP,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1737,1560-01,F,Sabine River,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1738,1561-01,F,Sabine River,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1739,1562-01,F,Sabine River,S6,dnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1740,1624-01,F,Sabine River,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1741,1625-01,F,Sabine River,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1742,1626-01,F,Sabine River,S6,tdnp,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1743,1326-01,F,Sabine River,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1744,1327-01,F,Sabine River,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1745,1652-01,F,Sabine River,S6,ic,30.03655,-93.7372,flame,12/3/2022,16:15,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1746,1208-16,UF,Sabine River,S7,UF,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1747,1173-17,UF,Sabine River,S7,F,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1748,1219-13,UF,Sabine River,S7,DOC/DIC,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1749,1524-02,UF,Sabine River,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1750,1525-02,UF,Sabine River,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1751,1526-02,UF,Sabine River,S7,TNP,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1752,1387-01,F,Sabine River,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1753,1388-01,F,Sabine River,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1754,1389-01,F,Sabine River,S7,dnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1755,1291-01,F,Sabine River,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1756,1292-01,F,Sabine River,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1757,1293-01,F,Sabine River,S7,tdnp,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1758,1317-01,F,Sabine River,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1759,1318-01,F,Sabine River,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
+1760,1319-01,F,Sabine River,S7,ic,29.98553,-93.7925,flame,12/3/2022,16:59,surface,0.25,0.7,TRUE,none,grab,MM,MAB,GPS from Garmin Echomap,,4/10/2023
 1761,0927-16,UF,Sabine-Neches,T1,Turner and spec scans,30.00011,-96.9506,SNcruise2022,12/3/2022,10:40,surface,4.5,,TRUE,none,1 L grab sample,SP,SP,"water depth=4.5m, station S1",,4/10/2023
 1762,0922-16,UF,Sabine-Neches,T2,Turner and spec scans,29.96735,-93.85571667,SNcruise2022,12/3/2022,11:05,surface,12,,TRUE,none,1 L grab sample,SP,SP,water depth=12m,,4/10/2023
 1763,0921-16,UF,Sabine-Neches,T3,Turner and spec scans,29.96343333,-93.85675,SNcruise2022,12/3/2022,11:20,surface,12.6,,TRUE,none,1 L grab sample,SP,SP,"water depth=12.6m, station S2",,4/10/2023
