@@ -1626,26 +1626,26 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1633,1574-01,F,Brazos River,B5,dnp,31.52469,-97.03481,BrazosCruise32023,3/4/2023,16:17,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,GPS from Garmin GPS Puck,,4/10/2023
 1634,1928-16,UF,Brazos River,B5-6,UF,31.51643,-97.0438,BrazosCruise32023,3/4/2023,16:43,surface,0.25,,TRUE,none,grab,MAB,MAB,GPS from Garmin GPS Puck,,4/10/2023
 1635,1575-01,F,Brazos River,B5-6,dnp,31.51643,-97.0438,BrazosCruise32023,3/4/2023,16:43,surface,0.25,0.7,TRUE,none,grab,MAB,MAB,GPS from Garmin GPS Puck,,4/10/2023
-1636,1571-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1637,1570-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1638,1569-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1639,1633-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1640,1634-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1641,1635-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1642,1552-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1643,1550-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1644,1551-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1645,1547-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1646,1549-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1647,1548-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
-1648,1568-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1649,1567-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1650,1566-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
-1651,1632-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1652,1630-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1653,1631-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
-1654,0371-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,MillerPonds,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
-1655,0372-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,MillerPonds,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
+1636,1571-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1637,1570-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1638,1569-01,F,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1639,1633-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1640,1634-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1641,1635-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1642,1552-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1643,1550-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1644,1551-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1645,1547-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1646,1549-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1647,1548-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TNP,,4/10/2023
+1648,1568-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1649,1567-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1650,1566-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,DNP,,4/10/2023
+1651,1632-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1652,1630-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1653,1631-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,0.7,TRUE,none,grab,LM,LM,TDNP,,4/10/2023
+1654,0371-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,,2/24/2023,8:01,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
+1655,0372-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,,2/24/2023,8:30,surfacewater,0.5,,TRUE,none,grab,LM,LM,TSS/AFDM,,4/10/2023
 1656,0588-16,UF,Sabine-Neches,S1,UF,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
 1657,1181-17,UF,Sabine-Neches,S1,F,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
 1658,1222-13,UF,Sabine-Neches,S1,DOC/DIC,30.00011,-93.9506,flame,12/3/2022,10:35,surface,0.25,,TRUE,none,grab,MAB,MAB,,,4/10/2023
@@ -1769,182 +1769,156 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1776,0599-16,UF,Sabine-Neches,T16,Turner and spec scans,29.98553333,-93.7925,SNcruise2022,12/3/2022,16:59,surface,2.6,,TRUE,none,1 L grab sample,SP,SP,water depth=2.6m,,4/10/2023
 1777,2027-01,F,Waco Cr,boat dock,dnp,31.550746,-97.11147,waco cr,10/18/2022,14:00,surfacewater,0.25,0.7,TRUE,none,grab,SP,SP,,,4/10/2023
 1778,2028-01,F,Waco Cr,bsb,dnp,31.548876,-97.11405,waco cr,10/18/2022,14:00,surfacewater,0.25,0.7,TRUE,none,grab,SP,SP,,,4/10/2023
-1779,1690-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1780,1691-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1781,1692-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1782,1639-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1783,1640-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1784,1641-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1785,1582-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1786,1583-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1787,1587-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1788,1796-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1789,1797-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1790,1803-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1791,1693-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1792,1694-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1793,1695-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1794,1636-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1795,1637-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1796,1638-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1797,1584-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1798,1585-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1799,1586-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1800,1800-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1801,1801-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1802,1802-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1803,0373-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1804,0374-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1805,1684-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1806,1685-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1807,1686-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1808,1645-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1809,1646-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1810,1647-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1811,1114-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1812,1115-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1813,1572-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1814,1792-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1815,1793-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1816,1794-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1817,1553-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1818,1554-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1819,1555-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1820,1648-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1821,1649-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1822,1650-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1823,1113-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1824,1116-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1825,1117-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1826,1795-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1827,1798-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1828,1799-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1829,0382-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1830,0378-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
-1831,1715-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1832,2029-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1833,1714-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1834,1778-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1835,1777-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1836,1779-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1837,1610-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1838,1611-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1839,1609-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1840,1805-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1841,1806-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1842,1804-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1843,1711-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1844,1712-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1845,1713-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1846,1774-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1847,1775-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1848,1776-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1849,1606-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1850,1607-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1851,1608-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1852,1227-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1853,1228-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1854,1229-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1855,1931-16,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1856,1932-16,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
-1857,1933-16,UF,Lake Waco,W1,UF,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1858,1892-17,UF,Lake Waco,W1,F,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1859,1230-13,UF,Lake Waco,W1,DOC/DIC,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1860,2030-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1861,2031-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1862,2032-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1863,1613-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1864,1614-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1865,1612-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1866,1780-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1867,1781-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1868,1782-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1869,1743-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1870,1744-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1871,1745-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,flame,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1872,1937-16,UF,Lake Waco,W2,UF,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1873,1896-17,UF,Lake Waco,W2,F,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1874,1234-13,UF,Lake Waco,W2,DOC/DIC,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1875,2042-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1876,2043-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1877,2044-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1878,1615-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1879,1616-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1880,1617-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1881,1783-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1882,1784-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1883,1785-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1884,1746-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1885,1747-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1886,1748-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,flame,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1887,1935-16,UF,Lake Waco,W3,UF,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1888,1894-17,UF,Lake Waco,W3,F,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1889,1232-13,UF,Lake Waco,W3,DOC/DIC,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1890,2036-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1891,2037-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1892,2038-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1893,1618-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1894,1619-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1895,2062-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1896,1786-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1897,1787-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1898,1788-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1899,1749-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1900,1750-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1901,1751-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,flame,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1902,1934-16,UF,Lake Waco,W4,UF,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1903,1893-17,UF,Lake Waco,W4,F,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1904,1231-13,UF,Lake Waco,W4,DOC/DIC,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1905,2033-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1906,2034-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1907,2035-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1908,2063-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1909,2064-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1910,2065-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1911,1789-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1912,1790-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1913,1791-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1914,1752-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1915,1753-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1916,1754-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,flame,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1917,1938-16,UF,Lake Waco,W5,UF,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1918,1897-16,UF,Lake Waco,W5,F,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1919,1235-13,UF,Lake Waco,W5,DOC/DIC,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1920,2045-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1921,2046-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1922,2047-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1923,2066-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1924,2067-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1925,2068-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1926,2126-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1927,2127-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1928,2128-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1929,1755-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1930,1756-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1931,1757-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,flame,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
-1932,2048-02,UF,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1933,2049-02,UF,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1934,2050-02,UF,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1935,2131-01,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1936,2130-01,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1937,2129-01,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1938,2069-01,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1939,2071-01,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1940,2070-01,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1941,1807-13,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1942,1808-13,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1943,1809-13,F ,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1944,2041-02,UF,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1945,2040-02,UF,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1946,2039-02,UF,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,10/10/2023
-1947,2132-01,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1948,2134-01,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1949,2133-01,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TDNP,,10/10/2023
-1950,2073-01,F,Miller Ponds,Pond B,,31.69439,-97.16837,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1951,2077-01,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1952,2074-01,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DNP,,10/10/2023
-1953,1810-13,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1954,1812-13,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1955,1811-13,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,DOC,,10/10/2023
-1956,1940-16,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TSS/AFDM,,10/10/2023
-1957,1899-17,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TSS/AFDM,,10/10/2023
+1779,1690-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1780,1691-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1781,1692-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1782,1639-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1783,1640-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1784,1641-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1785,1582-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1786,1583-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1787,1587-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1788,1796-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1789,1797-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1790,1803-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1791,1693-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1792,1694-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1793,1695-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1794,1636-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1795,1637-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1796,1638-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1797,1584-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1798,1585-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1799,1586-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1800,1800-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1801,1801-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1802,1802-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1803,0373-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,,4/28/2023,10:50,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1804,0374-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,,4/28/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1805,1684-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1806,1685-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1807,1686-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1808,1645-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1809,1646-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1810,1647-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1811,1114-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1812,1115-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1813,1572-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1814,1792-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1815,1793-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1816,1794-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1817,1553-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1818,1554-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1819,1555-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1820,1648-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1821,1649-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1822,1650-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1823,1113-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1824,1116-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1825,1117-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1826,1795-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1827,1798-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1828,1799-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1829,0382-09,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,,5/30/2023,12:55,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1830,0378-09,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,,5/30/2023,12:00,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,
+1831,1715-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1832,2029-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1833,1714-02,UF,Miller Ponds,Pond A,TNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1834,1778-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1835,1777-01,F,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1836,1779-01,F ,Miller Ponds,Pond A,TDNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1837,1610-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1838,1611-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1839,1609-01,F ,Miller Ponds,Pond A,DNP,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1840,1805-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1841,1806-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1842,1804-13,F ,Miller Ponds,Pond A,DOC,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1843,1711-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1844,1712-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1845,1713-02,UF,Miller Ponds,Pond B,TNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1846,1774-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1847,1775-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1848,1776-01,F,Miller Ponds,Pond B,TDNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1849,1606-01,F,Miller Ponds,Pond B,DNP,31.69439,-97.16837,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1850,1607-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1851,1608-01,F,Miller Ponds,Pond B,DNP,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1852,1227-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1853,1228-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1854,1229-13,F,Miller Ponds,Pond B,DOC,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1855,1931-16,F,Miller Ponds,Pond A,TSS/AFDM,31.69439,-97.16837,,6/23/2023,12:01,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1856,1932-16,F,Miller Ponds,Pond B,TSS/AFDM,31.69169,-97.16682,,6/23/2023,10:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,,,9/1/2023
+1857,1933-16,UF,Lake Waco,W1,UF,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1858,1892-17,UF,Lake Waco,W1,F,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1859,1230-13,UF,Lake Waco,W1,DOC/DIC,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1860,2030-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1861,2031-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1862,2032-02,UF,Lake Waco,W1,TNP,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1863,1613-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1864,1614-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1865,1612-01,F,Lake Waco,W1,dnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1866,1780-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1867,1781-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1868,1782-01,F,Lake Waco,W1,tdnp,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1869,1743-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1870,1744-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1871,1745-01,F,Lake Waco,W1,ic,31.52922967,-97.23779895,,6/26/2023,10:48,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1872,1937-16,UF,Lake Waco,W2,UF,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1873,1896-17,UF,Lake Waco,W2,F,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1874,1234-13,UF,Lake Waco,W2,DOC/DIC,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1875,2042-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1876,2043-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1877,2044-02,UF,Lake Waco,W2,TNP,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1878,1615-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1879,1616-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1880,1617-01,F,Lake Waco,W2,dnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1881,1783-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1882,1784-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1883,1785-01,F,Lake Waco,W2,tdnp,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1884,1746-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1885,1747-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1886,1748-01,F,Lake Waco,W2,ic,31.59133036,-97.26202777,,6/26/2023,11:36,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1887,1935-16,UF,Lake Waco,W3,UF,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1888,1894-17,UF,Lake Waco,W3,F,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1889,1232-13,UF,Lake Waco,W3,DOC/DIC,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1890,2036-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1891,2037-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1892,2038-02,UF,Lake Waco,W3,TNP,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1893,1618-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1894,1619-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1895,2062-01,F,Lake Waco,W3,dnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1896,1786-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1897,1787-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1898,1788-01,F,Lake Waco,W3,tdnp,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1899,1749-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1900,1750-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1901,1751-01,F,Lake Waco,W3,ic,31.59744982,-97.25180964,,6/26/2023,11:53,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1902,1934-16,UF,Lake Waco,W4,UF,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1903,1893-17,UF,Lake Waco,W4,F,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1904,1231-13,UF,Lake Waco,W4,DOC/DIC,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1905,2033-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1906,2034-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1907,2035-02,UF,Lake Waco,W4,TNP,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1908,2063-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1909,2064-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1910,2065-01,F,Lake Waco,W4,dnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1911,1789-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1912,1790-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1913,1791-01,F,Lake Waco,W4,tdnp,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1914,1752-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1915,1753-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1916,1754-01,F,Lake Waco,W4,ic,31.5821334,-97.20506368,,6/26/2023,12:41,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1917,1938-16,UF,Lake Waco,W5,UF,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1918,1897-16,UF,Lake Waco,W5,F,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1919,1235-13,UF,Lake Waco,W5,DOC/DIC,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1920,2045-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1921,2046-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1922,2047-02,UF,Lake Waco,W5,TNP,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1923,2066-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1924,2067-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1925,2068-01,F,Lake Waco,W5,dnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1926,2126-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1927,2127-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1928,2128-01,F,Lake Waco,W5,tdnp,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1929,1755-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1930,1756-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
+1931,1757-01,F,Lake Waco,W5,ic,31.54823673,-97.22273022,,6/26/2023,13:39,surfacewater,0.25,,TRUE,none,grab,MB,MB,,,9/1/2023
