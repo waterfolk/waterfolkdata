@@ -2212,3 +2212,5 @@ number,bottlecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,lab
 2254,1899-17c,8/30/2023,WTW Multi 340i,temperature,point,,28.1,C,,LM,LM,,depth = 1.0 ,2023-10-22
 2255,1899-17d,8/30/2023,WTW Multi 340i,temperature,point,,28.1,C,,LM,LM,,depth = 1.5,2023-10-22
 2256,1899-17e,8/30/2023,WTW Multi 340i,temperature,point,,28.1,C,,LM,LM,,depth = 2.0,2023-10-22
+2257,1924-16,5/30/2023,pHpaper,pH,sample,,8,pH,F,SP,SP,,,2023-10-22
+2258,1923-16,5/30/2023,pHpaper,pH,sample,,8,pH,F,SP,SP,,,2023-10-22
