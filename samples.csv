@@ -1038,21 +1038,21 @@ number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 1045,1497-98,F,Lake Red Bluff,6,Chl,31.928883,-103.91895,flame,8/8/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 1046,1498-98,F,Lake Red Bluff,6,Chl,31.928883,-103.91895,flame,8/8/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 1047,1499-98,F,Lake Red Bluff,6,Chl,31.928883,-103.91895,flame,8/8/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1048,1500-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1049,1501-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1050,1502-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1051,1503-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1052,1504-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1053,1505-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1054,1506-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1055,1507-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1056,1508-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1057,1509-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1058,1510-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1059,1511-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1060,1512-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1061,1513-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
-1062,1514-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/27/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1048,1500-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1049,1501-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1050,1502-98,F,Lake Arrowhead,1,Chl,33.74623,-98.3876,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1051,1503-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1052,1504-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1053,1505-98,F,Lake Arrowhead,2,Chl,33.68267,-98.4266,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1054,1506-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1055,1507-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1056,1508-98,F,Lake Arrowhead,3,Chl,33.76283,-98.3658,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1057,1509-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1058,1510-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1059,1511-98,F,Lake Arrowhead,4,Chl,33.70428,-98.3622,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1060,1512-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1061,1513-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
+1062,1514-98,F,Lake Arrowhead,5,Chl,33.67108,-98.3864,flame,8/12/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 1063,1515-98,F,Lake Waco,1,Chl,31.5278,-97.23756,flame,9/16/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 1064,1516-98,F,Lake Waco,1,Chl,31.5278,-97.23756,flame,9/16/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
 1065,1517-98,F,Lake Waco,1,Chl,31.5278,-97.23756,flame,9/16/2022,,surfacewater,0.25,0.7,TRUE,none,grab,MAB,MAB,Chl Run 9.17.2022,,11/30/2022
