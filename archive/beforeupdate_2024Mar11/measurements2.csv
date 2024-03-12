@@ -2613,14 +2613,14 @@ number,bottlecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,lab
 2655,1659-01,12/21/2023,lachat,tdn,sample,1659-01,1.09,mgL-1,FALSE,JB,SP,,,2024-02-28
 2656,1658-01,12/21/2023,lachat,tdn,sample,1658 5X,4.12,mgL-1,FALSE,JB,SP,,,2024-02-28
 2657,1664-01,12/21/2023,lachat,tdn,sample,1664-01,0.971,mgL-1,FALSE,JB,SP,,,2024-02-28
-2658,1876-16,12/1/2023,turbidemeter,turbidity,sample,1876-16,9.57,NTU,F,MM,MM,,,2024-02-28
-2659,1872-16,12/1/2023,turbidemeter,turbidity,sample,1872-16,31.9,NTU,F,MM,MM,,,2024-02-28
-2660,1878-16,12/1/2023,turbidemeter,turbidity,sample,1878-16,30.9,NTU,F,MM,MM,,,2024-02-28
-2661,1875-16,12/1/2023,turbidemeter,turbidity,sample,1875-16,32.7,NTU,F,MM,MM,,,2024-02-28
-2662,1873-16,12/1/2023,turbidemeter,turbidity,sample,1873-16,30.8,NTU,F,MM,MM,,,2024-02-28
-2663,1877-16,12/1/2023,turbidemeter,turbidity,sample,1877-16,28.9,NTU,F,MM,MM,,,2024-02-28
-2664,1874-16,12/1/2023,turbidemeter,turbidity,sample,1874-16,24.7,NTU,F,MM,MM,,,2024-02-28
-2665,1871-16,12/1/2023,turbidemeter,turbidity,sample,1871-16,9.96,NTU,F,MM,MM,,,2024-02-28
+2658,1876-16,12/1/2023,turbidemeter,turb,sample,1876-16,9.57,NTU,F,MM,MM,,,2024-02-28
+2659,1872-16,12/1/2023,turbidemeter,turb,sample,1872-16,31.9,NTU,F,MM,MM,,,2024-02-28
+2660,1878-16,12/1/2023,turbidemeter,turb,sample,1878-16,30.9,NTU,F,MM,MM,,,2024-02-28
+2661,1875-16,12/1/2023,turbidemeter,turb,sample,1875-16,32.7,NTU,F,MM,MM,,,2024-02-28
+2662,1873-16,12/1/2023,turbidemeter,turb,sample,1873-16,30.8,NTU,F,MM,MM,,,2024-02-28
+2663,1877-16,12/1/2023,turbidemeter,turb,sample,1877-16,28.9,NTU,F,MM,MM,,,2024-02-28
+2664,1874-16,12/1/2023,turbidemeter,turb,sample,1874-16,24.7,NTU,F,MM,MM,,,2024-02-28
+2665,1871-16,12/1/2023,turbidemeter,turb,sample,1871-16,9.96,NTU,F,MM,MM,,,2024-02-28
 2666,1876-16,12/1/2023,secchi disk,secchi,point,1876-16,0.55,m,F,MM,MM,,,2024-02-28
 2667,1872-16,12/1/2023,secchi disk,secchi,point,1872-16,0.2,m,F,MM,MM,,,2024-02-28
 2668,1878-16,12/1/2023,secchi disk,secchi,point,1878-16,0.2,m,F,MM,MM,,,2024-02-28
