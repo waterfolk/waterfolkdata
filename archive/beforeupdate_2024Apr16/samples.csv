@@ -1,4 +1,4 @@
-number,samplecode,filtered,system,station,intent,lat,lon,groupname,datecollect,timecollect,watertype,depth_m,poresizeiffiltered_micron,ambientTF,experimenttype,methodcollect,sampleuser,recorduser,note,flag,dateentered
+number,bottlecode,filtered,system,station,intent,lat,lon,groupname,datecollect,timecollect,watertype,depth_m,poresizeiffiltered_micron,ambientTF,experimenttype,methodcollect,sampleuser,recorduser,note,flag,dateentered
 1,0416-01,F,Lake Waco,1,,31.54371,-97.221,LW0,8/18/2021,11:10,surfacewater,0.25,0.45,TRUE,none,"grab,syringefilter","SP,MM",SP,,,2021
 2,0318-14,F,Lake Waco,1,,31.54371,-97.221,LW0,8/18/2021,11:10,surfacewater,0.25,0.45,TRUE,none,"grab,syringefilter","SP,MM",SP,,,2021
 3,0391-01,F,Lake Waco,1,,31.54371,-97.221,LW0,8/18/2021,11:10,surfacewater,0.25,0.45,TRUE,none,"grab,syringefilter","SP,MM",SP,,,2021

@@ -1,4 +1,4 @@
-number,samplecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,labdupTF,labuser,recorduser,flag,note,dateentered
+number,bottlecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,labdupTF,labuser,recorduser,flag,note,dateentered
 1,"TBD, lake Waco site 1",,turbidimeter,turbidity,sample,TBD,9.24,ntu,FALSE,SP,SP,,,2021
 2,0007-01,2021-08-11,lachat,srp,sample,20210728_WHITNEY_00701,0.00514,mgL-1,FALSE,JB,SP,,,2021
 3,0008-01,2021-08-11,lachat,srp,sample,801,0.00575,mgL-1,FALSE,JB,SP,,,2021
