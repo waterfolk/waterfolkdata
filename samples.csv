@@ -2245,3 +2245,7 @@ number,samplecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 2252,2058-02,UF,Lake Waco,KP,,31.54536,-97.22214,flame,12/1/2023,13:13,surfacewater,0.25,,TRUE,none,TNP,MM,MM,lat/lon is at where minidot station is,,2/28/2024
 2253,2054-02,UF,Lake Waco,SA,,31.52879,-97.24041,flame,12/1/2023,13:46,surfacewater,0.25,,TRUE,none,TNP,MM,MM,lat/lon is at where minidot station is,,2/28/2024
 2254,2055-02,UF,Lake Waco,Mid Bosque,,31.49697,-97.2586,flame,12/1/2023,13:30,surfacewater,0.25,,TRUE,none,TNP,MM,MM,lat/lon is at where minidot station is,,2/28/2024
+2255,1943-16,UF,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,5/21/2024
+2256,1941-16,UF,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,5/21/2024
+2257,1895-17,UF,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,10/23/2023,10:45,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,5/21/2024
+2258,1914-17,UF,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,10/23/2023,9:15,surfacewater,0.3,,TRUE,none,grab,LM,LM,TNP,,5/21/2024
