@@ -2823,7 +2823,3 @@ number,samplecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,lab
 2865,2156-01,2024-04-06,lachat,tdp,sample,2156,0.342,mgL-1,TRUE,JB,"LM,SP",,,2024-04-15
 2866,2157-01,2024-04-06,lachat,tdp,sample,2157,0.335,mgL-1,FALSE,JB,"LM,SP",,,2024-04-15
 2867,2196-01,2024-04-06,lachat,tdp,sample,2196,0.339,mgL-1,FALSE,JB,"LM,SP",,,2024-04-15
-2868,1912-17,2023-10-23,turbidimeter,turbidity,sample,1912,5.89,NTU,FALSE,LM,"LM,SP",,,2024-05-29
-2869,1913-17,2023-10-23,turbidimeter,turbidity,sample,1913,52.1,NTU,FALSE,LM,"LM,SP",,,2024-05-29
-2870,1879-16,2023-12-30,turbidimeter,turbidity,sample,1879,5.51,NTU,FALSE,LM,"LM,SP",,,2024-05-29
-2871,1884-16,2023-12-30,turbidimeter,turbidity,sample,1884,94.6,NTU,FALSE,LM,"LM,SP",,,2024-05-29
