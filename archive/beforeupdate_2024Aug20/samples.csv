@@ -2357,17 +2357,3 @@ number,samplecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 2364,2470-02,UF,Lake Waco,SA,TNP,31.52879,-97.24041,flame,5/27/2024,11:48,surfacewater,0.25,,TRUE,none,"grab from outflow while boat moving, filtered in lab",MM,MM,"lat/lon is at where minidot station is, TNP",,6/26/2024
 2365,2467-02,UF,Lake Waco,Extra,TNP,31.52547,-97.2391,flame,5/27/2024,13:34,surfacewater,0.25,,TRUE,none,"grab from outflow while boat moving, filtered in lab",MM,MM,"lat/lon is at where minidot station is, TNP",,6/26/2024
 2366,2469-02,UF,Lake Waco,Mid Bosque,TNP,31.49697,-97.2586,flame,5/27/2024,11:27,surfacewater,0.25,,TRUE,none,"grab from outflow while boat moving, filtered in lab",MM,MM,"lat/lon is at where minidot station is, TNP",,6/26/2024
-2367,2589-16,UF,Lake Waco,MB,TSS/AFDM,31.49694,-97.25811,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2368,2590-16,UF,Lake Waco,SA,TSS/AFDM,31.52924,-97.23828,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2369,2592-16,UF,Lake Waco,KP,TSS/AFDM,31.54771,-97.22054,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2370,2593-16,UF,Lake Waco,DAM,TSS/AFDM,31.58126,-97.20196,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2371,1591-16,UF,Lake Waco,UT,TSS/AFDM,31.594961,-97.25436,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2372,2588-16,UF,Lake Waco,TZ,TSS/AFDM,31.60489,-97.27123,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2373,2587-16,UF,Lake Waco,NB,TSS/AFDM,31.6002,-97.29349,,8/15/2024,12:00,surfacewater,0.25,,TRUE,none,grab,MM,SP,,,8/20/2024
-2374,2589-17,F,Lake Waco,MB,,31.49694,-97.25811,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2375,2590-17,F,Lake Waco,SA,,31.52924,-97.23828,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2376,2592-17,F,Lake Waco,KP,,31.54771,-97.22054,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2377,2593-17,F,Lake Waco,DAM,,31.58126,-97.20196,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2378,1591-17,F,Lake Waco,UT,,31.594961,-97.25436,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2379,2588-17,F,Lake Waco,TZ,,31.60489,-97.27123,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2380,2587-17,F,Lake Waco,NB,,31.6002,-97.29349,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
