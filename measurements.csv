@@ -2848,31 +2848,24 @@ number,samplecode,daterun,instrument,analyte,resulttype,runlabel,result,unit,lab
 2890,2591-16,8/15/2024,,afdm,sample,,12,mgL-1,F,MM,SP,,,8/20/2024
 2891,2588-16,8/15/2024,,afdm,sample,,14,mgL-1,F,MM,SP,,,8/20/2024
 2892,2587-16,8/15/2024,,afdm,sample,,11.33,mgL-1,F,MM,SP,,,8/20/2024
-2893,2590-16,8/15/2024,turbidemeter,turbidity,sample,,13.1,NTU,F,MM,SP,,,8/20/2024
-2894,2589-16,8/15/2024,turbidemeter,turbidity,sample,,16.7,NTU,F,MM,SP,,,8/20/2024
-2895,2592-16,8/15/2024,turbidemeter,turbidity,sample,,5.32,NTU,F,MM,SP,,,8/20/2024
-2896,2593-16,8/15/2024,turbidemeter,turbidity,sample,,4.83,NTU,F,MM,SP,,,8/20/2024
-2897,2591-16,8/15/2024,turbidemeter,turbidity,sample,,7.93,NTU,F,MM,SP,,,8/20/2024
-2898,2588-16,8/15/2024,turbidemeter,turbidity,sample,,25.4,NTU,F,MM,SP,,,8/20/2024
-2899,2587-16,8/15/2024,turbidemeter,turbidity,sample,,4.22,NTU,F,MM,SP,,,8/20/2024
-2900,2590-16,8/15/2024,ysi conductivity probe,conductivity,sample,,329,uS,F,MM,SP,,,8/20/2024
-2901,2589-16,8/15/2024,ysi conductivity probe,conductivity,sample,,376,uS,F,MM,SP,,,8/20/2024
-2902,2592-16,8/15/2024,ysi conductivity probe,conductivity,sample,,318,uS,F,MM,SP,,,8/20/2024
-2903,2593-16,8/15/2024,ysi conductivity probe,conductivity,sample,,312,uS,F,MM,SP,,,8/20/2024
-2904,2591-16,8/15/2024,ysi conductivity probe,conductivity,sample,,316,uS,F,MM,SP,,,8/20/2024
-2905,2588-16,8/15/2024,ysi conductivity probe,conductivity,sample,,382,uS,F,MM,SP,,,8/20/2024
-2906,2587-16,8/15/2024,ysi conductivity probe,conductivity,sample,,446,uS,F,MM,SP,,,8/20/2024
-2907,2590-16,8/15/2024,pH probe,pH,sample,,8,pH,F,SP,SP,,,8/20/2024
-2908,2589-16,8/15/2024,pH probe,pH,sample,,7.9,pH,F,SP,SP,,,8/20/2024
-2909,2592-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
-2910,2593-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
-2911,2591-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
-2912,2588-16,8/15/2024,pH probe,pH,sample,,8.05,pH,F,SP,SP,,,8/20/2024
-2913,2587-16,8/15/2024,pH probe,pH,sample,,7.95,pH,F,SP,SP,,,8/20/2024
-2914,2590-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2915,2589-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2916,2592-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2917,2593-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2918,2591-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2919,2588-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
-2920,2587-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2893,2590-16,8/15/2024,ysi conductivity probe,conductivity,sample,,329,uS,F,MM,SP,,,8/20/2024
+2894,2589-16,8/15/2024,ysi conductivity probe,conductivity,sample,,376,uS,F,MM,SP,,,8/20/2024
+2895,2592-16,8/15/2024,ysi conductivity probe,conductivity,sample,,318,uS,F,MM,SP,,,8/20/2024
+2896,2593-16,8/15/2024,ysi conductivity probe,conductivity,sample,,312,uS,F,MM,SP,,,8/20/2024
+2897,2591-16,8/15/2024,ysi conductivity probe,conductivity,sample,,316,uS,F,MM,SP,,,8/20/2024
+2898,2588-16,8/15/2024,ysi conductivity probe,conductivity,sample,,382,uS,F,MM,SP,,,8/20/2024
+2899,2587-16,8/15/2024,ysi conductivity probe,conductivity,sample,,446,uS,F,MM,SP,,,8/20/2024
+2900,2590-16,8/15/2024,pH probe,pH,sample,,8,pH,F,SP,SP,,,8/20/2024
+2901,2589-16,8/15/2024,pH probe,pH,sample,,7.9,pH,F,SP,SP,,,8/20/2024
+2902,2592-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
+2903,2593-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
+2904,2591-16,8/15/2024,pH probe,pH,sample,,8.2,pH,F,SP,SP,,,8/20/2024
+2905,2588-16,8/15/2024,pH probe,pH,sample,,8.05,pH,F,SP,SP,,,8/20/2024
+2906,2587-16,8/15/2024,pH probe,pH,sample,,7.95,pH,F,SP,SP,,,8/20/2024
+2907,2590-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2908,2589-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2909,2592-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2910,2593-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2911,2591-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2912,2588-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
+2913,2587-16,8/15/2024,secchi disk,secchi,point,,,meter,F,MM,SP,,,8/20/2024
