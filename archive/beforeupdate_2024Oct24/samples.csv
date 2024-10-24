@@ -2371,39 +2371,3 @@ number,samplecode,filtered,system,station,intent,lat,lon,groupname,datecollect,t
 2378,2591-17,F,Lake Waco,UT,,31.594961,-97.25436,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
 2379,2588-17,F,Lake Waco,TZ,,31.60489,-97.27123,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
 2380,2587-17,F,Lake Waco,NB,,31.6002,-97.29349,,8/15/2024,12:00,surfacewater,0.25,0.7,TRUE,none,grab,MM,SP,,,8/20/2024
-2381,2645-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2382,2646-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2383,2647-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,4/28/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2384,2648-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2385,2649-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2386,2650-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,5/30/2023,12:55,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2387,2651-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2388,2652-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2389,2653-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,6/23/2023,12:01,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2390,2654-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2391,2655-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2392,2656-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,8/30/2023,7:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2393,2657-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,10/23/2023,10:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2394,2658-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,10/23/2023,10:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2395,2659-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,10/23/2023,10:45,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2396,2660-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,12/30/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2397,2661-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,12/30/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2398,2662-98,F,Miller Ponds,Pond A,,31.69439,-97.16837,MillerPonds,12/30/2023,10:50,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2399,2663-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2400,2664-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2401,2665-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,4/28/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2402,2666-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2403,2667-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2404,2668-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,5/30/2023,12:00,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2405,2669-98,F,Miller Ponds,Pond A,,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2406,2670-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2407,2671-98,F,Miller Ponds,Pond A,,31.69169,-97.16682,MillerPonds,6/23/2023,10:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2408,2672-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2409,2673-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2410,2674-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,8/30/2023,8:40,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2411,2675-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,10/23/2023,9:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2412,2676-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,10/23/2023,9:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2413,2677-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,10/23/2023,9:15,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2414,2678-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,12/30/2023,12:30,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2415,2679-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,12/30/2023,12:30,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
-2416,2680-98,F,Miller Ponds,Pond B,,31.69169,-97.16682,MillerPonds,12/30/2023,12:30,surfacewater,0.3,0.7,none,grab,LM,LM,chl a,,,10/24/2024
